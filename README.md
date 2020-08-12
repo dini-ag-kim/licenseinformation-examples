@@ -1,3 +1,3 @@
 # Beispiele zum Ergänzen von Lizenzinformationen als strukturierte Daten
 
-Vergleich verschiedener Methoden zur Angabe von Lizenz, Urheber\*innen etc.
+Dieses Repo dient dem Vergleich verschiedener Methoden zur Angabe von Lizenz, Urheber\*innen etc. [Angestoßen](https://pad.gwdg.de/s/B1X6JOAbv#Vorschlag-Diskussion-von-Lizenzangaben) wurde die Diskussion zu dem Thema von Jens Lechtenbörger ([GitLab](https://gitlab.com/lechten), [GitHub](https://github.com/lechten)), siehe auch seinen [Artikel](https://dx.doi.org/10.18420/delfi2019_280) & [Slides](https://lechten.gitlab.io/talks-2019b/2019-09-19-DELFI.html) mit dem Titel "Simplifying license attribution for OER with emacs-reveal" und die  Präsentation.
