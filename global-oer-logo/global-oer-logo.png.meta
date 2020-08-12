@@ -1,0 +1,17 @@
+; Semicolon starts comment until end of line (Emacs Lisp).
+; Lines 13-16 occur in comments; they illustrate available options.
+
+((filename . "./figures/logos/Global_OER_Logo.svg.png")
+ (licenseurl . "https://creativecommons.org/licenses/by/3.0/")
+ (licensetext . "Creative Commons Attribution 3.0 Unported")
+ (cc:attributionName . "Jonathasmello")
+ (cc:attributionURL . "https://commons.wikimedia.org/wiki/User:Jonathasmello")
+ (dc:source . "https://commons.wikimedia.org/wiki/File:Global_Open_Educational_Resources_Logo.svg")
+ (sourcetext . "Wikimedia Commons")
+ (dc:title . "OER Global Logo")
+ (texwidth . 0.2)
+; (imgalt . "If the title is not suitable as alt text.")
+; (imgadapted . "Indicate modifications/provenance.")
+; (permit . "Indicate special permissions/disclaimers.")
+; (copyright . "Reproduce copyright notice of source.")
+)

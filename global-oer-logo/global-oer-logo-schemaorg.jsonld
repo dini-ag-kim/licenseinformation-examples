@@ -1,0 +1,17 @@
+{
+    "@context": "http://schema.org",
+    "id": "https://commons.wikimedia.org/entity/M18460156",
+    "name": "Global OER Logo",
+    "license": {
+        "id": "https://creativecommons.org/licenses/by/3.0/",
+        "name": "Creative Commons Attribution 3.0 Unported"
+    },
+    "creator": {
+        "id": "https://commons.wikimedia.org/wiki/User:Jonathasmello",
+        "name": "Jonathas Mello"
+    },
+    "provider": {
+        "id": "http://www.wikidata.org/entity/Q565",
+        "name": "Wikimedia Commons"
+    }
+}
