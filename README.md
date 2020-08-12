@@ -1,2 +1,3 @@
-# rightsmetadata-examples
-Vergleich verschiedener Methoden zur Angabe von Lizenzen, Attribution etc.
+# Beispiele zum Ergänzen von Lizenzinformationen als strukturierte Daten
+
+Vergleich verschiedener Methoden zur Angabe von Lizenz, Urheber\*innen etc.
