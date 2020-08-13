@@ -6,6 +6,6 @@
  (dc:source . "https://gitlab.com/oer/figures/blob/master/OS/hail_f0613_with_embedded_frame_nos.odg")
  (sourcetext . "Source at GitLab.")
  (dc:title . "IA-32 two-level page table")
- (imgadapted . "Frame numbers and valid bits added to and third layer removed from [[https://github.com/Max-Hailperin/Operating-Systems-and-Middleware--Supporting-Controlled-Interaction/blob/master/hail_f0613.pdf][Figure 6.13]] of cite:Hai17 by Max Hailperin under [[https://creativecommons.org/licenses/by-sa/3.0/][CC BY-SA 3.0]].")
+ (imgadapted . "Frame numbers and valid bits added to and third layer removed from [[https://github.com/Max-Hailperin/Operating-Systems-and-Middleware--Supporting-Controlled-Interaction/blob/e57b475bd9dbc8a27226114ecbd8695172069b69/hail_f0613.pdf][Figure 6.13]] of cite:Hai17 by Max Hailperin under [[https://creativecommons.org/licenses/by-sa/3.0/][CC BY-SA 3.0]].")
  (texwidth . 0.9)
 )
